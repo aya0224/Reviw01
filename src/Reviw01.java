@@ -16,7 +16,7 @@ public class Reviw01 {
                 
         
         String tax;
-        System.out.println(i+"の税込み価格は" + (i + r)+ "円" +("消費税は"+r +"円")+"です");
+        System.out.println(i+"円の商品の税込み価格は" + (i + r)+ "円" +"(消費税は"+r +"円)です。");
                
     }
 
