@@ -9,7 +9,7 @@ public class Reviw01 {
         result  = tax(zeinuki,zei); 
         
         String tax;
-        System.out.println("300円の税込み価格は" + (zeinuki + result)+ "円" +("消費税は"+result +"円")+"です");
+        System.out.println(zeinuki+"の税込み価格は" + (zeinuki + result)+ "円" +("消費税は"+result +"円")+"です");
                
     }
 
